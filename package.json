@@ -1,0 +1,17 @@
+{
+  "name": "connect-bograch",
+  "version": "0.0.1",
+  "description": "Microservice session store for Express and Connect.",
+  "main": "index.js",
+  "keywords": [
+    "bograch",
+	"session",
+	"express"
+  ],
+  "author": "Zoltan Kochan",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zkochan/connect-bograch.git"
+  },
+  "license": "MIT"
+}
