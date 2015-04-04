@@ -1,6 +1,6 @@
 {
   "name": "connect-bograch",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Microservice session store for Express and Connect.",
   "main": "./lib",
   "scripts": {
@@ -17,7 +17,7 @@
     "url": "git://github.com/zkochan/connect-bograch.git"
   },
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "chai": "^2.2.0",
     "mocha": "^2.2.1"
   }
